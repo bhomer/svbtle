@@ -8,9 +8,15 @@
 }
 
 #navbar {
+	width: 20.83333%;
 	height: 100%;
-	width: 200px;
 	float: left;
+}
+h1 {
+	font-size: 2.6em;
+}
+p {
+	font-size: 1.6em;
 }
 
 #container {
@@ -18,16 +24,18 @@
 }
 
 #col {
-	width: 350px;
+	width: 57.29166%;
 	height: 100%;
 	float: left;
-	background-color: red;
 }
 
 #col2 {
-	width: 350px;
+	width: 20.83333%;
 	float: right;
-	background-color: green;
+}
+h1.col2title {
+	margin-bottom: 30px;
+	font-size: 2.5em;
 }
 
 #box-sizing .col {
